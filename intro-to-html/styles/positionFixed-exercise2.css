@@ -1,0 +1,117 @@
+p {
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.horizontalBar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.profileAndName {
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+}
+
+.friend-profile {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 16px;margin-right: 10px;
+}
+
+
+.AddAndMessage {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.Add-button {
+    background-color: rgb(24, 119, 242);
+    color: white;
+    padding: 5px 8px;
+    border: none;
+    font-family: Arial;
+    margin-right: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.Message-button {
+    padding: 6px 15px;
+    border: none;
+    font-family: Arial;
+    margin-right: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+
+
+.verticalBar {
+    display: flex;
+    color: gray;
+}
+
+.verticalBar-left {
+    background-color: rgb(41, 41, 41);
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.discord-servers {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    margin-left: 10px;
+}
+
+.discord-profile {
+    margin-bottom: 10px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+
+
+
+.verticalBar-right {
+    position: fixed;
+    background-color: rgb(66, 66, 66);
+    top: 50px;
+    left: 75px;
+    bottom: 0px;
+    width: 200px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+

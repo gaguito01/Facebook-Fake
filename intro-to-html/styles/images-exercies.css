@@ -1,0 +1,121 @@
+.Timbersaw {
+  width: 200px;
+  border-radius: 10px;
+}
+.Mars {
+
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+    
+}
+
+.search-bar {
+  width: 150px;
+  padding: 10px;
+  border-style: solid;
+  border-radius: 7px;
+  border-width: 1px;
+  font-family: Arial;
+  border-color: rgb(180, 173, 173);
+}
+
+.search-bar-shadow {
+  width: 400px;;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.email-bar {
+  width: 300px;
+  height: 23px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 4px;
+}
+
+.email-text {
+  font-size: 13px;
+  font-family: Arial;
+  color: rgb(68, 68, 68);
+  margin-bottom: 5px;
+}
+
+.agree-text {
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(68, 68, 68);
+  margin-top: 15px;
+}
+
+.agree-button {
+
+  background-color: rgb(89, 68, 207);
+  color: white;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-right: 100px;
+  padding-left: 100px;
+  border-style: none;
+  border-radius: 50px;
+  font-family: Arial;
+  font-size: 15px;
+  
+}
+
+.tweet-bar {
+
+  width: 300px;
+  vertical-align: middle;
+  border: none;
+  font-size: 18px;
+
+
+}
+
+
+  
+.tweet-button {
+
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+  margin-right: 15px;
+  cursor: pointer;
+
+}
+
+.tweet-button:hover {
+  background-color: rgb(26, 145, 218);
+}
+  
+.dazzle {
+
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  object-fit: cover;
+  object-position: bottom;
+  vertical-align: middle;
+  margin-right: 5px;
+  padding: 10px;
+
+}
+
+.dazzle-div {
+
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+  display: inline-block;
+  border-radius: 10px;
+  
+}

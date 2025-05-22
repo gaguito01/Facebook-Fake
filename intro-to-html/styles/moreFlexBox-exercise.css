@@ -1,0 +1,151 @@
+.item1-div {
+    display: flex;
+    width: 100px;
+    background-color: lightblue;
+    padding: 10px;
+    justify-content: center;
+}
+
+.item1-text {
+    background-color: black;
+    color: white;
+    
+}
+
+.nothing {
+    width: 200px;
+    background-color: lightpink;
+}
+
+
+.profile-picture {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-right: 7px;
+}
+
+
+
+.inbox {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    width: 380px;
+    margin-bottom: 100px;
+}
+
+.ALL-INBOXES {
+    color: gray;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 12px;
+    font-family: Arial;
+}
+
+
+.userAndText {
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-top: 5px;
+    display: flex; 
+    align-items: center;
+}
+
+.name {
+    font-family: Arial;
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.time {
+    color: gray;
+    font-size: 13px;
+    margin: 0;
+    font-family: Arial;
+}
+
+.title {
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.preview {
+    margin: 0; 
+    font-size: 14px;
+    color: gray;
+    font-family: Arial;
+}
+
+.onlyText {
+    display: flex; 
+    width: 300px; 
+    justify-content: space-between; 
+    margin: 0;
+}
+
+
+
+.Profile {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-right: 7px;
+}
+
+.Porfile-div {
+    display: flex;
+    height: 150px;
+}
+
+.user {
+    font-family: Arial;
+    margin: 0;
+}
+
+.arroba {
+    color: gray;
+}
+
+.userContent {
+    font-family: Arial;
+    width: 350px;
+    margin: 5px;
+}
+
+
+.graySquare {
+    width: 80px; 
+    height: 90px; 
+    background-color: rgb(201, 201, 201);
+    margin-right: 10px;
+    
+}
+
+.content {
+    display: flex;
+    border-color: rgb(180, 180, 180);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.link {
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-family: Arial;
+}
+
+.title-video {
+    font-family: Arial;
+    margin-top: 0px;
+    width: 250px;
+    font-weight: 500;
+}
